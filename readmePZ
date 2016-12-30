@@ -4,9 +4,9 @@ Những gì làm được:
 - Chỉ cần chạy file index.js
 - Truy cập bằng port 1234 trên localhost của mình
 - Mở nhiều table cùng 1 địa chỉ, để chat với nhau
-- Qua bài thì hiểu được: 
-    + Node JS là gì
-    + Cài đặt môi trường cho Node js, tạo project, file package và cách chạy chương trình
+- Qua bài hiểu được: 
+    + Node JS là gì, tại sao dùng nó
+    + Cài đặt môi trường cho Node js, tạo project, file package.json và cách chạy chương trình
     + Cài đặt các gói cần thiết cần hỗ trợ trong Project Node js "npm"
     + Tạo serser với số port bất kì trong localhost
     + Hiểu modul: Express, FS, tạo các router site
